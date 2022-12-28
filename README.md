@@ -13,8 +13,8 @@ In my free time, I enjoy:
   - and crocheting. 
 
 I also like to spend time with friends and family:
-  - :coffee: coffee with friends, 
-  - :clapper: movie nights with friends
+  - :coffee: chatting over a cup of coffee, 
+  - :clapper: movie nights,
   - :cherry_blossom: gardening, 
   - :pizza: hosting dinners, 
   - :game_die: and playing board games.
