@@ -21,3 +21,5 @@ I also like to spend time with friends and family:
 
 
 ![Aleisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleish-m&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleish-m&layout=compact)](https://github.com/aleish-m/github-readme-stats)
