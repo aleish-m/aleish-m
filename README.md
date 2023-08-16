@@ -1,8 +1,36 @@
 [![Aleisha Mork Name Banner](https://media.licdn.com/dms/image/D5616AQHSSpjXCumB7A/profile-displaybackgroundimage-shrink_350_1400/0/1686003250167?e=1697673600&v=beta&t=-9g0M31I-KP8GZnQC_T4qUCWCCJ37e0GMhWoAK-99O8)](https://terminal.turing.edu/profiles/1573)
 
+<div align="center">
+  
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 	
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
 ## Back-End Engineering Program Completion
+<div align="center">
+  
 |[<img src="https://user-images.githubusercontent.com/105686836/260644069-a1a81299-5700-491a-838e-c6dc618a0b3d.png" alt="Turing BEE Certificate Badge" width="200">](https://turing.edu/) | <ul> <li> Focus on Ruby on Rails and SQL </li> <li> [Turing School Curriculum Overview](https://drive.google.com/file/d/1TWCfriYm5P-5O4SBKsXnswGlYKYR-Z5B/view?pli=1) </li> <li> [Aleisha's Alumni Profile](https://terminal.turing.edu/profiles/1573) </li> </ul> | [<img src="https://lh3.googleusercontent.com/pw/AIL4fc8NhzYE2KwOMTzF6CRrr_1AVQz75jB2SFeS7-GYO9tF_dzhmkocCjG8vC4CatshDm8o_MdguI9vFQF0kCRmKgRW-QUFDjM6v762NIcvHWCag3znnJwBQ9ZjroXmMFdYaFv7Qp4cN2qNwUu3qTfRG5mabowcri0NllqdaZmi3V7PjIky-sFr5q5SR8bW4vRSwZ6VC1q40R4uYMsxBFNIgHx9k0Mj7_0YAQhaAhseD8yk7umeiN--lqzMXn92punQnL6CgHTHee-zLOkrrYP_wpuS8AsdBVAfnvg0xqWBzEONFhOsthZgOwPTC_se5mSky39HBlh_soOEbd1fFSTMlFxBgqgw9-cB0SlhHuaODpUoQrxasaJVsUxhDoqG2xXa_ZdmThFWpd-0AQbMkmrEyMwAKtfuOGfpJonlgFUk9-LIwdl0mPhFZIlY1Zez4zpSp133zEwX8MqOFnU34_WSIRoUoH7NP2-OFek2YDaAOydwVrD1Zg5lsaHsMIfVRIM8EwyFitF1DDyKDJl76VNAB-ngRls8cOaJnO8jy9VJK0PqOT5RnU5ofTlcMVRKCFDUapPQxNbZes1zb98MqMEDohBqVEpJce1egHVosOVp09g2jb8sfRzMKM24_SwBNm8LYFNTmzMmVEsDsguKLH2hQlMr9iHYnzVxhFz4OGkBcKZ5hUOiUNIy60mRiqS5mfxkxam0WUsekWDYgvGe2a3OnHQ16rO9z_IWbZlf078hysED424Yfw27T3cj2lA0wN5zvT3NzIbNUmhSwcPJCAp6AJdS-hHi3aTp2eQ7ssG3OE_rsIe1phNAG0of-5BGXqCrf8nJB75lqQFoowGl3-A5omT2FUcSafmeT-TICHqrZLJSZ1zdze8mSW-CLG7_C850F-sTkPTD1__0200BqbFFjys=w797-h938-s-no?authuser=0" alt="Photo of BEE Certificate" width="200">](https://photos.google.com/photo/AF1QipOIjUFxczLiuZ7X8WFKRbpqKxms-_i6Tncv5yWo) |
 |---|---|---|
+
+</div>
 
 # Hello!
 
@@ -12,26 +40,28 @@ I enjoy problem-solving while creating something for an end user. I enjoy the ch
 
 I love finding solutions utilizing math, design, and experiences. I enjoy working with others to solve problems and bring ideas to fruition using technical, detail-oriented skills. I thrive in roles that require organized, creative, and detailed thought processes with continuous problem-solving and changing priorities.
 
-In my free time, I enjoy:
-  - :fork_and_knife: learning more about cooking, 
-  - :bath: making soap and body care products, 
-  - :wine_glass: winemaking, 
-  - and crocheting. 
-
-I also like to spend time with friends and family:
-  - :coffee: chatting over a cup of coffee, 
-  - :clapper: movie nights,
-  - :cherry_blossom: gardening, 
-  - :pizza: hosting dinners, 
-  - :game_die: and playing board games.
+Other ways I spend my days:
+  - :fork_and_knife: Cooking
+  - :bath: Soap Making
+  - :wine_glass: Winemaking
+  - 🧶 Crochet 
+  - :coffee: Drinking Coffee
+  - :clapper: Movie Nights
+  - :cherry_blossom: Gardening
+  - :game_die: Board Games
 
 
 ![Aleisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleish-m&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleish-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Continued Learning Certificates
+## Continued Learning & Certificates
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
 [<img src="https://api2.sololearn.com/v2/certificates/CC-OVTHOHSR/image/jpg" alt="Intoduction to Java Certificate" width="200">](https://www.sololearn.com/certificates/CC-OVTHOHSR) 
 [<img src="https://api2.sololearn.com/v2/certificates/CC-IIW6I2ZD/image/jpg" alt="Intoduction to JavaScript Certificate" width="200">](https://www.sololearn.com/certificates/CC-IIW6I2ZD)
 [<img src="https://api2.sololearn.com/v2/certificates/CC-PXQG5RWM/image/jpg" alt="Intoduction to SQL Certificate" width="200">](https://www.sololearn.com/certificates/CC-PXQG5RWM)
 
+## Connect with Me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
