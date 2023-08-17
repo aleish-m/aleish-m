@@ -27,7 +27,7 @@
 ## Back-End Engineering Program Completion
 <div align="center">
   
-|[<img src="https://user-images.githubusercontent.com/105686836/260644069-a1a81299-5700-491a-838e-c6dc618a0b3d.png" alt="Turing BEE Certificate Badge" width="200">](https://turing.edu/) | <ul> <li> Focus on Ruby on Rails and SQL </li> <li> [Turing School Curriculum Overview](https://drive.google.com/file/d/1TWCfriYm5P-5O4SBKsXnswGlYKYR-Z5B/view?pli=1) </li> <li> [Aleisha's Alumni Profile](https://terminal.turing.edu/profiles/1573) </li> </ul> | [<img src="https://user-images.githubusercontent.com/105686836/261207934-c372b807-c7ee-4f52-a7c8-505afb5064ad.png" alt="Photo of BEE Certificate" width="200">](https://photos.google.com/photo/AF1QipOIjUFxczLiuZ7X8WFKRbpqKxms-_i6Tncv5yWo) |
+|[<img src="https://user-images.githubusercontent.com/105686836/260644069-a1a81299-5700-491a-838e-c6dc618a0b3d.png" alt="Turing BEE Certificate Badge" width="200">](https://turing.edu/) | <ul> <li> Focus on Ruby on Rails and SQL </li> <li> [Turing School Curriculum Overview](https://drive.google.com/file/d/1TWCfriYm5P-5O4SBKsXnswGlYKYR-Z5B/view?pli=1) </li> <li> [Aleisha's Alumni Profile](https://terminal.turing.edu/profiles/1573) </li> </ul> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleish-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|---|
 
 </div>
@@ -52,7 +52,7 @@ Other ways I spend my days:
 
 
 ![Aleisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleish-m&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleish-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Continued Learning & Certificates
@@ -65,3 +65,5 @@ Other ways I spend my days:
 ## Connect with Me
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<!--[<img src="https://user-images.githubusercontent.com/105686836/261207934-c372b807-c7ee-4f52-a7c8-505afb5064ad.png" alt="Photo of BEE Certificate" width="200">](https://photos.google.com/photo/AF1QipOIjUFxczLiuZ7X8WFKRbpqKxms-_i6Tncv5yWo) -->
