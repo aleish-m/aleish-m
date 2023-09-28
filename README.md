@@ -1,4 +1,4 @@
-[![Aleisha Mork Name Banner](https://media.licdn.com/dms/image/D5616AQHSSpjXCumB7A/profile-displaybackgroundimage-shrink_350_1400/0/1686003250167?e=1697673600&v=beta&t=-9g0M31I-KP8GZnQC_T4qUCWCCJ37e0GMhWoAK-99O8)](https://terminal.turing.edu/profiles/1573)
+[![Aleisha Mork Name Banner](https://github.com/aleish-m/aleish-m/assets/105686836/8547c455-5a6b-4bd0-9ef8-52e184b4b97f)](https://terminal.turing.edu/profiles/1573)
 
 <div align="center">
   
