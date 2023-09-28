@@ -1,4 +1,4 @@
-[![Aleisha Mork Name Banner](https://github.com/aleish-m/aleish-m/assets/105686836/8547c455-5a6b-4bd0-9ef8-52e184b4b97f)](https://terminal.turing.edu/profiles/1573)
+[![Aleisha Mork Name Banner](https://github.com/aleish-m/aleish-m/blob/main/4.jpg?raw=true)](https://terminal.turing.edu/profiles/1573)
 
 <div align="center">
   
